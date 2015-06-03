@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="telephony-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/telephony-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

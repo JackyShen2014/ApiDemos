@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\28851620\githubProject\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\28851620\githubProject\ApiDemos\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-dbb39abd86ff2b5ca92bf98667fef9f2b2562492.jar" />
+    </item>
+    <item
+        jar="C:\28851620\githubProject\ApiDemos\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\28851620\githubProject\ApiDemos\app\build\intermediates\pre-dexed\debug\classes-a646e83d290569da7c18bccc85b458f4a5f95d09.jar" />
+    </item>
+    <item
+        jar="C:\28851620\androidSDK\android-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\28851620\githubProject\ApiDemos\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ec91383cf0bac20a33f3aa32a8d1d3994983f87f.jar" />
+    </item>
+    <item
+        jar="C:\28851620\githubProject\ApiDemos\.idea\libraries\telephony-common.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bf51c007b3521bebf64bf660f0e54599aa1ab45">
+        <dex dex="C:\28851620\githubProject\ApiDemos\app\build\intermediates\pre-dexed\debug\telephony-common-5f32edb5d15e76be1c171cbb4f9835062497eb5c.jar" />
+    </item>
+
+</items>

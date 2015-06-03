@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mms-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/mms-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
